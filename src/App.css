@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Solstice';
+    src: url('./components/assets/fonts/Millennial\ Solstice.otf');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('./components/assets/fonts/Manrope-VariableFont_wght.ttf');
+}
