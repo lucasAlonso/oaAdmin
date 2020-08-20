@@ -11,9 +11,6 @@ const SocialMedia = ({ icon }) => {
 };
 
 const Home = () => {
-    let ac = localStorage.getItem('account');
-    let account = JSON.parse(ac);
-
     return (
         <>
             <div className='HomeContainer'>

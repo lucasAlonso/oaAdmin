@@ -9,7 +9,7 @@ import Item from './components/Item';
 import Button from '../../commons/RegularButton';
 import ModalError from '../../commons/ModalError';
 import { makeStyles } from '@material-ui/core/styles';
-import { auth } from '../../../firebase/firebseConfig';
+import { auth } from '../../../firebase/firebaseConfig';
 
 const useStyles = makeStyles((theme) => ({
     backdrop: {

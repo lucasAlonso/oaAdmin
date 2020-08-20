@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { FirebaseAppProvider } from 'reactfire';
-import firebase from './firebase/firebseConfig';
+import firebase from './firebase/firebaseConfig';
 
 ReactDOM.render(
     <FirebaseAppProvider firebaseConfig={firebase}>
